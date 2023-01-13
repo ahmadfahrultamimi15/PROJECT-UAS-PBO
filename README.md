@@ -1,7 +1,7 @@
 # PROJECT-UAS-PBO
-Nama
-Kelas
-Nim
+Nama    : Ahmad Fahrul Tamimi                                                                                                                                     
+Kelas   : TI.21.C2                                                                                                                                                    
+Nim     : 312110231
 
 
 Link Dokumentasi Tutorial Pdf   
